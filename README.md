@@ -1,0 +1,2 @@
+# WDMLoopProgressDemo
+一个简单的圆形进度条和读秒的demo（利用CAShapeLayer和UIBezierPath实现）
